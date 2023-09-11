@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
+  <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndradeTC86&layout=compact&theme=vision-friendly-dark"/>
   <img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=AndradeTC86&count_private=true&show_icons=true&theme=dracula" />
 </p>
 <!--
