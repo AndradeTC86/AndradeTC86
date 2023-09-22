@@ -1,6 +1,6 @@
 ### Hi there 
 
-I'm a Quality Engineer working with testing and quality since my graduation.
+I'm a Quality Engineer working with testing and quality.
 
 <p align="center">
   <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndradeTC86&layout=compact&theme=dracula"/> <img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=AndradeTC86&count_private=true&show_icons=true&theme=dracula" />
