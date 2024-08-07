@@ -3,7 +3,7 @@
 I'm a Quality Engineer working with testing and quality.
 
 <p align="center">
-  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndradeTC86&layout=compact&theme=dracula"/> <img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=AndradeTC86&count_private=true&show_icons=true&theme=dracula" />
+  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndradeTC86&layout=compact&theme=dracula"/> <img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=AndradeTC86&count_private=false&show_icons=true&theme=dracula" />
 </p>
 <!--
 **AndradeTC86/AndradeTC86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
