@@ -5,7 +5,10 @@ I am a Quality Engineer, an enthusiast of automated front-end and back-end testi
 Feel free to browse through my repositories and [Gists](https://gist.github.com/AndradeTC86) where I have published my article in Portuguese, English, and Spanish.
 
 <p align="center">
-  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndradeTC86&layout=compact&theme=dracula"/> <img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=AndradeTC86&count_private=true&show_icons=true&theme=dracula" />
+  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndradeTC86&layout=compact&theme=dracula"/>
+</p>
+<p align="center">
+  <img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=AndradeTC86&count_private=true&show_icons=true&theme=dracula" />
 </p>
 <!--
 **AndradeTC86/AndradeTC86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
