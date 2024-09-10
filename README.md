@@ -1,6 +1,8 @@
 ### Hi there 
 
-I'm a Quality Engineer working with testing and quality.
+I am a Quality Engineer, an enthusiast of automated front-end and back-end testing, with experience in frameworks such as Selenium, Cypress, and Playwright. I also have knowledge in performance, security, and mobile testing with Appium.
+
+Feel free to browse through my repositories and [Gists](https://gist.github.com/AndradeTC86) where I have published my article in Portuguese, English, and Spanish.
 
 <p align="center">
   <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndradeTC86&layout=compact&theme=dracula"/> <img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=AndradeTC86&count_private=true&show_icons=true&theme=dracula" />
