@@ -2,7 +2,7 @@
 
 I am a Quality Engineer, an enthusiast of automated front-end and back-end testing, with experience in frameworks such as Selenium, Cypress, and Playwright. I also have knowledge in performance, security, and mobile testing with Appium.
 
-Feel free to browse through my repositories and [Gists](https://gist.github.com/AndradeTC86) where I have published my article in Portuguese, English, and Spanish.
+Feel free to browse through my repositories and [Gists](https://gist.github.com/AndradeTC86) where I have published an article in Portuguese(Done), English(WIP), and Spanish(WIP) with a proof of concept for comparison between the frameworks Cypress, Selenium and Playwright, whch was my final project in the specialization course in Agile Testing on CESAR School.
 
 <p align="center">
   <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndradeTC86&layout=compact&theme=dracula"/>
