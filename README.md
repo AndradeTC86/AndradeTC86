@@ -33,13 +33,6 @@ Feel free to browse through my repositories and [Gists](https://gist.github.com/
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100" height="100">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100" height="100">
 </p>
-          
-          
-         
-          
-          
-          
-          
 
 <p align="center">
   <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndradeTC86&layout=compact&theme=dracula"/>
