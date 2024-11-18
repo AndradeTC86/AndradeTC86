@@ -6,32 +6,32 @@ Feel free to browse through my repositories and [Gists](https://gist.github.com/
 
 ### My Certifcates
 <p align="center">
-  <img src="https://bstqb.online/img/selos/s-ctal-tm2.png" width="50" height="50">
-  <img src="https://bstqb.online/img/selos/s-ctal-ta.png" width="50" height="50">
-  <img src="https://bstqb.online/img/selos/s-ctal-tta.png" width="50" height="50">
-  <img src="https://bstqb.online/img/selos/s-ctal-tae.png" width="50" height="50">
-  <img src="https://bstqb.online/img/selos/s-ctal-att.png" width="50" height="50">
+  <img src="https://bstqb.online/img/selos/s-ctal-tm2.png" width="100" height="100">
+  <img src="https://bstqb.online/img/selos/s-ctal-ta.png" width="100" height="100">
+  <img src="https://bstqb.online/img/selos/s-ctal-tta.png" width="100" height="100">
+  <img src="https://bstqb.online/img/selos/s-ctal-tae.png" width="100" height="100">
+  <img src="https://bstqb.online/img/selos/s-ctal-att.png" width="100" height="100">
 </p>
 <p align="center">
-  <img src="https://bstqb.online/img/selos/s-ctfl.png" width="50" height="50">
-  <img src="https://bstqb.online/img/selos/s-ctfl-at.png" width="50" height="50">
-  <img src="https://bstqb.online/img/selos/s-ct-act.png" width="50" height="50">
-  <img src="https://bstqb.online/img/selos/s-ct-ai.png" width="50" height="50">
-  <img src="https://bstqb.online/img/selos/s-ct-mat.png" width="50" height="50">
-  <img src="https://bstqb.online/img/selos/s-ct-mbt.png" width="50" height="50">
-  <img src="https://bstqb.online/img/selos/s-ct-pt.png" width="50" height="50">
-  <img src="https://bstqb.online/img/selos/s-ct-ut.png" width="50" height="50">
-  <img src="https://bstqb.online/img/selos/s-ct-sec.png" width="50" height="50">
+  <img src="https://bstqb.online/img/selos/s-ctfl.png" width="100" height="100">
+  <img src="https://bstqb.online/img/selos/s-ctfl-at.png" width="100" height="100">
+  <img src="https://bstqb.online/img/selos/s-ct-act.png" width="100" height="100">
+  <img src="https://bstqb.online/img/selos/s-ct-ai.png" width="100" height="100">
+  <img src="https://bstqb.online/img/selos/s-ct-mat.png" width="100" height="100">
+  <img src="https://bstqb.online/img/selos/s-ct-mbt.png" width="100" height="100">
+  <img src="https://bstqb.online/img/selos/s-ct-pt.png" width="100" height="100">
+  <img src="https://bstqb.online/img/selos/s-ct-ut.png" width="100" height="100">
+  <img src="https://bstqb.online/img/selos/s-ct-sec.png" width="100" height="100">
 </p>
 
 ### My Technologies
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="50" height="50">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="50" height="50">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"  width="50" height="50">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="100" height="100">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="100" height="100">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"  width="100" height="100">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100" height="100">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100" height="100">
 </p>
           
           
