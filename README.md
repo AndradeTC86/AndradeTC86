@@ -6,22 +6,22 @@ Feel free to browse through my repositories and [Gists](https://gist.github.com/
 
 ### My Certifcates
 <p align="center">
-  <img src="https://bstqb.online/img/selos/s-ctal-tm2.png" width="150" height="150">
-  <img src="https://bstqb.online/img/selos/s-ctal-ta.png" width="150" height="150">
-  <img src="https://bstqb.online/img/selos/s-ctal-tta.png" width="150" height="150">
-  <img src="https://bstqb.online/img/selos/s-ctal-tae.png" width="150" height="150">
-  <img src="https://bstqb.online/img/selos/s-ctal-att.png" width="150" height="150">
+  <img src="https://bstqb.online/img/selos/s-ctal-tm2.png" width="100" height="100">
+  <img src="https://bstqb.online/img/selos/s-ctal-ta.png" width="100" height="100">
+  <img src="https://bstqb.online/img/selos/s-ctal-tta.png" width="100" height="100">
+  <img src="https://bstqb.online/img/selos/s-ctal-tae.png" width="100" height="100">
+  <img src="https://bstqb.online/img/selos/s-ctal-att.png" width="100" height="100">
 </p>
 <p align="center">
-  <img src="https://bstqb.online/img/selos/s-ctfl.png" width="150" height="150">
-  <img src="https://bstqb.online/img/selos/s-ctfl-at.png" width="150" height="150">
-  <img src="https://bstqb.online/img/selos/s-ct-act.png" width="150" height="150">
-  <img src="https://bstqb.online/img/selos/s-ct-ai.png" width="150" height="150">
-  <img src="https://bstqb.online/img/selos/s-ct-mat.png" width="150" height="150">
-  <img src="https://bstqb.online/img/selos/s-ct-mbt.png" width="150" height="150">
-  <img src="https://bstqb.online/img/selos/s-ct-pt.png" width="150" height="150">
-  <img src="https://bstqb.online/img/selos/s-ct-ut.png" width="150" height="150">
-  <img src="https://bstqb.online/img/selos/s-ct-sec.png" width="150" height="150">
+  <img src="https://bstqb.online/img/selos/s-ctfl.png" width="100" height="100">
+  <img src="https://bstqb.online/img/selos/s-ctfl-at.png" width="100" height="100">
+  <img src="https://bstqb.online/img/selos/s-ct-act.png" width="100" height="100">
+  <img src="https://bstqb.online/img/selos/s-ct-ai.png" width="100" height="100">
+  <img src="https://bstqb.online/img/selos/s-ct-mat.png" width="100" height="100">
+  <img src="https://bstqb.online/img/selos/s-ct-mbt.png" width="100" height="100">
+  <img src="https://bstqb.online/img/selos/s-ct-pt.png" width="100" height="100">
+  <img src="https://bstqb.online/img/selos/s-ct-ut.png" width="100" height="100">
+  <img src="https://bstqb.online/img/selos/s-ct-sec.png" width="100" height="100">
 </p>
 
 ### My Technologies
