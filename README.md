@@ -4,7 +4,7 @@ I am a Quality Engineer, an enthusiast of automated front-end and back-end testi
 
 Feel free to browse through my repositories and [Gists](https://gist.github.com/AndradeTC86) where I have published an article in Portuguese :heavy_check_mark:, English :soon:, and Spanish :soon: with a proof of concept for comparison between the frameworks Cypress, Selenium and Playwright, whch was my final project in the specialization course in Agile Testing on CESAR School.
 
-### My Certifcates
+### My Certificates
 <p align="center">
   <img src="https://bstqb.online/img/selos/s-ctal-tm2.png" width="100" height="100">
   <img src="https://bstqb.online/img/selos/s-ctal-ta.png" width="100" height="100">
