@@ -4,24 +4,6 @@ I am a Quality Engineer passionate about testing, with experience in front-end a
 
 Feel free to explore my repositories to learn more about my projects and studies. Additionally, check out my [Gists](https://gist.github.com/AndradeTC86), where I’ve published an article — available in Portuguese, English, and Spanish — featuring a proof of concept comparing Cypress, Selenium, and Playwright. This article was part of my final project for the Agile Testing specialization course at CESAR School.
 
-### My Certificates
-<p align="center">
-  <img src="https://bstqb.online/img/selos/s-ctal-tm2.png" width="200" height="200">
-  <img src="https://bstqb.online/img/selos/s-ctal-ta.png" width="200" height="200">
-  <img src="https://bstqb.online/img/selos/s-ctal-tta.png" width="200" height="200">
-  <img src="https://bstqb.online/img/selos/s-ctal-tae.png" width="200" height="200">
-  <img src="https://bstqb.online/img/selos/s-ctal-att.png" width="200" height="200">
-  <img src="https://bstqb.online/img/selos/s-ctfl.png" width="200" height="200">
-  <img src="https://bstqb.online/img/selos/s-ctfl-at.png" width="200" height="200">
-  <img src="https://bstqb.online/img/selos/s-ct-act.png" width="200" height="200">
-  <img src="https://bstqb.online/img/selos/s-ct-ai.png" width="200" height="200">
-  <img src="https://bstqb.online/img/selos/s-ct-mat.png" width="200" height="200">
-  <img src="https://bstqb.online/img/selos/s-ct-mbt.png" width="200" height="200">
-  <img src="https://bstqb.online/img/selos/s-ct-pt.png" width="200" height="200">
-  <img src="https://bstqb.online/img/selos/s-ct-ut.png" width="200" height="200">
-  <img src="https://bstqb.online/img/selos/s-ct-sec.png" width="200" height="200">
-</p>
-
 ### My Technologies
 
 <p align="center">
