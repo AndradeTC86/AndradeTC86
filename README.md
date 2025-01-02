@@ -18,7 +18,7 @@ Feel free to explore my repositories to learn more about my projects and studies
   <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndradeTC86&layout=compact&theme=dracula"/>
 </p>
 <p align="center">
-  <img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=AndradeTC86&count_private=true&show_icons=true&theme=dracula" />
+  <img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=AndradeTC86&count_private=false&show_icons=true&theme=dracula" />
 </p>
 
 <!--
