@@ -18,9 +18,3 @@ Feel free to explore my repositories to learn more about my projects and studies
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50">
 </p>
-
-<p align="center">
-  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndradeTC86&layout=compact&langs_count=20&theme=dracula"/>
-<br />
-  <img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=AndradeTC86&count_private=true&show_icons=true&theme=dracula" />
-</p>
