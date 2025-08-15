@@ -20,6 +20,9 @@ Feel free to explore my repositories to learn more about my projects and studies
 </p>
 
 <p align="center">  
-  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndradeTC86&layout=compact&langs_count=10&theme=dracula"/>
+  <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/AndradeTC86?theme=dark">
+      <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/AndradeTC86">
+  </picture>
   <img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=AndradeTC86&count_private=true&show_icons=true&theme=dracula" />
 </p>
