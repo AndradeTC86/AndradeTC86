@@ -14,11 +14,6 @@ Feel free to explore my repositories to learn more about my projects and studies
 </p>
 
 #### Programming Languages
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50">
-</p>
-
 <p align="center">  
   <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/AndradeTC86?theme=dark">
