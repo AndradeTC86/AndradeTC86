@@ -20,9 +20,4 @@ Feel free to explore my repositories to learn more about my projects and studies
     <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/AndradeTC86?theme=dark">
      <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/AndradeTC86">
   </picture>      
-</p>  
-
-#### Github Activity
-<p align="center">
-  <img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=AndradeTC86&count_private=true&show_icons=true&theme=dracula" />
-</p>  
+</p>
