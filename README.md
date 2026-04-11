@@ -21,3 +21,19 @@ Feel free to explore my repositories to learn more about my projects and studies
      <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/AndradeTC86">
   </picture>      
 </p>
+
+#### Next Steps in My Studies
+- [ ] Finish the project banco-api-testing (Software Testing Mentorship 2.0)
+- [ ] Finish the project banco-performance-testing (Software Testing Mentorship 2.0)
+- [ ] Finish the project banco-web-testing (Software Testing Mentorship 2.0)
+- [ ] Finish the project velo (AutomatizAI Specialization in Test Automation with AI)
+- [ ] Fix the errors in poc_puppeteer
+- [ ] Create the structure of poc_codeceptjs
+- [ ] Create the structure of poc_galen
+- [ ] Create the structure of poc_nightwatch
+- [ ] Create the structure of poc_protractor
+- [ ] Create the structure of poc_taiko
+- [ ] Create the structure of poc_testcafe
+- [ ] Create the structure of poc_webdriverio
+- [ ] Create the structure of poc_robot_playwright
+- [ ] Create the structure of poc_robot_playwright
