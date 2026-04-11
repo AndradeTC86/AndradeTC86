@@ -37,3 +37,4 @@ Feel free to explore my repositories to learn more about my projects and studies
 - [ ] Create the structure of poc_webdriverio
 - [ ] Create the structure of poc_robot_playwright
 - [ ] Create the structure of poc_robot_playwright
+- [ ] Organize exercicios_ebac
