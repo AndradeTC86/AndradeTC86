@@ -6,13 +6,7 @@ Feel free to explore my repositories to learn more about my projects and studies
 
 ### My Technologies
 #### Testing Frameworks
-<p align="center">
-  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Cypress.png" width="50" height="50">
-  <img src="https://icon.icepanel.io/Technology/svg/Playwrite.svg" width="50" height="50">
-  <img src="https://icon.icepanel.io/Technology/svg/Selenium.svg"  width="50" height="50">  
-  <img src="https://www.svgrepo.com/show/354228/puppeteer.svg" width="50" height="50">
-  <img src="https://www.svgrepo.com/show/374049/robotframework.svg" width="50" height="50"/>
-</p>
+
 
 #### Programming Languages
 <p align="center">
