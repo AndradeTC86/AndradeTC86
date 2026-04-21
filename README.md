@@ -18,7 +18,7 @@ Feel free to explore my repositories to learn more about my projects and studies
 
 #### Next Steps in My Studies
 - [X] Finish the project banco-api-testing (Software Testing Mentorship 2.0)
-- [ ] Finish the project banco-performance-testing (Software Testing Mentorship 2.0)
+- [X] Finish the project banco-performance-testing (Software Testing Mentorship 2.0)
 - [ ] Finish the project banco-web-testing (Software Testing Mentorship 2.0)
 - [ ] Finish the project velo (AutomatizAI Specialization in Test Automation with AI)
 - [ ] Fix the errors in poc_puppeteer
