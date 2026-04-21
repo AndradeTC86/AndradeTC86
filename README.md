@@ -7,6 +7,12 @@ Feel free to explore my repositories to learn more about my projects and studies
 ### My Technologies
 #### Testing Frameworks
 
+##### Web Testing
+##### API Testing
+##### Mobile Testing
+##### Desktop Testing
+##### Performance Testing
+##### Security Testing
 
 #### Programming Languages
 <p align="center">
