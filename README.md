@@ -5,14 +5,14 @@ I am a Quality Engineer passionate about testing, with experience in front-end a
 Feel free to explore my repositories to learn more about my projects and studies. Additionally, check out my [Gists](https://gist.github.com/AndradeTC86), where I’ve published an article — available in Portuguese, English, and Spanish — featuring a proof of concept comparing Cypress, Selenium, and Playwright. This article was part of my final project for the Agile Testing specialization course at CESAR School.
 
 ### My Technologies
-#### Testing Frameworks
+<!--- #### Testing Frameworks
 
 ##### Web Testing
 ##### API Testing
 ##### Mobile Testing
 ##### Desktop Testing
 ##### Performance Testing
-##### Security Testing
+##### Security Testing --->
 
 #### Programming Languages
 <p align="center">
