@@ -21,17 +21,3 @@ Feel free to explore my repositories to learn more about my projects and studies
      <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/AndradeTC86">
   </picture>      
 </p>
-
-#### Next Steps in My Studies
-- [ ] Finish the project velo (AutomatizAI Specialization in Test Automation with AI)
-- [ ] Fix the errors in poc_puppeteer
-- [ ] Create the structure for poc_codeceptjs
-- [ ] Create the structure for poc_galen
-- [ ] Create the structure for poc_nightwatch
-- [ ] Create the structure for poc_protractor
-- [ ] Create the structure for poc_taiko
-- [ ] Create the structure for poc_testcafe
-- [ ] Create the structure for poc_webdriverio
-- [ ] Create the structure for poc_robot_playwright
-- [ ] Create the structure for poc_robot_playwright
-- [ ] Organize exercicios_ebac
