@@ -4,8 +4,8 @@ I am a Quality Engineer passionate about testing, with experience in front-end a
 
 Feel free to explore my repositories to learn more about my projects and studies. Additionally, check out my [Gists](https://gist.github.com/AndradeTC86), where I’ve published an article — available in Portuguese, English, and Spanish — featuring a proof of concept comparing Cypress, Selenium, and Playwright. This article was part of my final project for the Agile Testing specialization course at CESAR School.
 
-### My Technologies
-<!--- #### Testing Frameworks
+<!--- ### My Technologies
+#### Testing Frameworks
 
 ##### Web Testing
 ##### API Testing
@@ -25,13 +25,13 @@ Feel free to explore my repositories to learn more about my projects and studies
 #### Next Steps in My Studies
 - [ ] Finish the project velo (AutomatizAI Specialization in Test Automation with AI)
 - [ ] Fix the errors in poc_puppeteer
-- [ ] Create the structure of poc_codeceptjs
-- [ ] Create the structure of poc_galen
-- [ ] Create the structure of poc_nightwatch
-- [ ] Create the structure of poc_protractor
-- [ ] Create the structure of poc_taiko
-- [ ] Create the structure of poc_testcafe
-- [ ] Create the structure of poc_webdriverio
-- [ ] Create the structure of poc_robot_playwright
-- [ ] Create the structure of poc_robot_playwright
+- [ ] Create the structure for poc_codeceptjs
+- [ ] Create the structure for poc_galen
+- [ ] Create the structure for poc_nightwatch
+- [ ] Create the structure for poc_protractor
+- [ ] Create the structure for poc_taiko
+- [ ] Create the structure for poc_testcafe
+- [ ] Create the structure for poc_webdriverio
+- [ ] Create the structure for poc_robot_playwright
+- [ ] Create the structure for poc_robot_playwright
 - [ ] Organize exercicios_ebac
